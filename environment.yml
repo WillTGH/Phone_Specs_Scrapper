@@ -1,0 +1,12 @@
+name: scrapenv
+channels:
+  - defaults
+dependencies:
+  - ipykernel
+  - tqdm
+  - aiohttp
+  - pandas
+  - jupyterlab
+  - lxml
+  - beautifulsoup4
+  - python
