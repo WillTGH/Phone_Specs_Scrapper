@@ -13,11 +13,12 @@
 
 # Next
 
-- [ ] Telemetry statistics (how many time the scrapper hits http error code etc..)
-- [ ] Adaptive rate limiting
+- [x] Telemetry statistics (how many time the scrapper hits http error code etc..)
+- [x] Adaptive rate limiting
 - [ ] SQLite database
 - [ ] Parse specifications
 - [ ] Search CLI
+- [ ] Data Cleaning
 
 # Future
 
